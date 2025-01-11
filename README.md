@@ -1,6 +1,6 @@
-# Python Basics Repository
+# Python Basics 
 
-This repository contains tutorials on the basics of Python programming. Each notebook covers a different fundamental concept.
+This repository provides a collection of Jupyter Notebooks that cover the basic concepts of Python programming. It is designed for beginners who are looking to learn Python step by step. Each notebook introduces fundamental topics with clear explanations and code examples to help you understand and practice Python.
 
 ## Notebooks
 
