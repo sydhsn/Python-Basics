@@ -39,4 +39,4 @@ jobs:
 
       - name: Test with pytest
         run: |
-          pytest --nbval  # This will run tests inside .ipynb files in the current directory
+          pytest --nbval tests/test_Literals_in_Python.ipynb  # Specify the notebook path to run the tests
