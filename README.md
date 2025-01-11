@@ -23,6 +23,9 @@ This repository covers the following fundamental Python concepts:
 - **Taking User Input**: Learn how to accept **user input** via the console and handle the data accordingly.
 - **Print Function**: Master the **print() function** to display output and interact with users through the console.
 
+### Test 
+![Build Status](https://github.com/<username>/<repo-name>/actions/workflows/python-app.yml/badge.svg)
+
 ### Notebooks Included
 
 Each notebook in this repository covers a specific topic and includes practical examples to reinforce your learning. The notebooks are designed to be hands-on, so you can experiment with the code directly:
