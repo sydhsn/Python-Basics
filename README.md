@@ -24,7 +24,7 @@ This repository covers the following fundamental Python concepts:
 - **Print Function**: Master the **print() function** to display output and interact with users through the console.
 
 ### Test 
-![Build Status](https://github.com/<username>/<repo-name>/actions/workflows/python-app.yml/badge.svg)
+![Build Status](https://github.com/sydhsn/Python-Basics-Tutorials-Learn-Python-Programming-Step-by-Step/actions/workflows/python-app.yml/badge.svg)
 
 ### Notebooks Included
 
