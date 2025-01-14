@@ -29,7 +29,7 @@ This repository covers the following fundamental Python concepts:
 ### Notebooks Included
 
 Each notebook in this repository covers a specific topic and includes practical examples to reinforce your learning. The notebooks are designed to be hands-on, so you can experiment with the code directly:
-
+- [Decision Control](decision-control-in-python.ipynb) - Learn how to implement **decision control** structures in Python using if-else statements and conditional logic. This notebook provides clear examples of how to control the flow of your program based on various conditions.
 - [Literals in Python](Literals_in_Python.ipynb) – Introduction to Python **literals** and data representation.
 - [Operators in Python](Operators_in_Python.ipynb) – Learn how to perform operations using Python **operators**.
 - [Type Conversion](Type-Conversion.ipynb) – **Type casting** and converting between different **data types** in Python.
